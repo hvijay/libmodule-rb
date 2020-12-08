@@ -1,0 +1,3 @@
+[submodule "libsubmodule-rb"]
+	path = libsubmodule-rb
+	url = https://github.com/hvijay/libsubmodule-rb
